@@ -1,0 +1,1 @@
+{ "name": "suitedash-hubspot-automation", "version": "1.0.0", "description": "Enterprise automation bridge for staqlt clients", "main": "server.js", "dependencies": { "axios": "^1.6.0", "dotenv": "^16.3.1", "express": "^4.18.2" } }
